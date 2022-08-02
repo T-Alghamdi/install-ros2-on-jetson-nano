@@ -1,4 +1,4 @@
-# install-ros2-on-jetson-nano
+# install-Ros2-on-Jetson-nano
 **Step 1>>**download Xubunto20.4
 
 **Step 2>>**oppen virtualbox and click
